@@ -5,8 +5,8 @@ function start() {
 	var cell_el = '<div class="cell"></cell>'
 	var cell_sub_cont = document.querySelectorAll(".cell_sub_cont")
 	var cell = document.querySelectorAll(".cell")
-	var back = '<img src="images/background.jpg">'
-	var fow = '<img src="images/done.jpg">'
+	var back = '<img src="background.jpg">'
+	var fow = '<img src="done.jpg">'
 	var winDia = document.getElementById("winDia")
 
 	var num_cells = 12
